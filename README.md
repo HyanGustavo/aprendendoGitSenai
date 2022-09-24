@@ -11,6 +11,7 @@ Neste repositório aprenderei utilizar comandos básicos do Github, assim como a
   - **git init** : _iniciar o git bash_
   - **git add .** : _para adicionar um arquivo_
   - **git commit -m ""** : _para preparar um arquivo_
+  - **git remote** : _para renomear o repositório_
 
 ### branchs
   - **git branch -M main** : _Utilizado para trocar a configuração de master para main_
